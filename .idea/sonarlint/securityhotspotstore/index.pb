@@ -89,3 +89,7 @@ o
 Ksrc/main/java/org/designpatterns/creational/prototype/PrototypeFactory.java,e/3/e393bc06b7b3ed128c11e1f53eb5cc0d6243feea
 x
 Hsrc/test/java/org/designpatterns/creational/prototype/PrototypeTest.java,c/1/c1fc43a69d64f8fbec400f480775de970719a181
+m
+=src/main/java/org/designpatterns/creational/builder/Card.java,e/9/e992842a95d0b5af7186ec1a1c79df5c897070fe
+q
+Asrc/test/java/org/designpatterns/creational/builder/CardTest.java,4/7/47c03bf8cba8c5ada6159e3a068049b0714a5847
