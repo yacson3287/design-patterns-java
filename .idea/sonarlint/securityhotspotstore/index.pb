@@ -79,3 +79,13 @@ Q.idea/sonarlint/securityhotspotstore/a/3/a33955481b90e423210e163862d41001af9e2e
 Q.idea/sonarlint/securityhotspotstore/8/2/8238f613d2d66ca252e8ba76d85a44cd2ace38af,0/3/03da705597a8e51b2fded076941a0766b0664e09
 w
 G.idea/sonarlint/issuestore/8/2/8238f613d2d66ca252e8ba76d85a44cd2ace38af,f/0/f0203a713a621d61832319d67ccb8640f85eb919
+x
+Hsrc/main/java/org/designpatterns/creational/prototype/PrototypeCard.java,6/7/67d80f8e72c4919b68e1fb8b8b3d20e39d92ef79
+o
+?src/main/java/org/designpatterns/creational/prototype/Visa.java,0/4/04216ab371db670cf7424f504b20fe9a4a1ba2bd
+o
+?src/main/java/org/designpatterns/creational/prototype/Amex.java,9/7/976052e3f264e47302743379f6361042b7cb903e
+{
+Ksrc/main/java/org/designpatterns/creational/prototype/PrototypeFactory.java,e/3/e393bc06b7b3ed128c11e1f53eb5cc0d6243feea
+x
+Hsrc/test/java/org/designpatterns/creational/prototype/PrototypeTest.java,c/1/c1fc43a69d64f8fbec400f480775de970719a181
