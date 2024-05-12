@@ -1,8 +1,6 @@
 
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
-S
-#src/main/java/org/example/Main.java,0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 Z
 *src/main/java/org/designpatterns/Main.java,a/0/a07c908b4b5cb921aef84298fb32e22e2026d194
 v
@@ -15,16 +13,12 @@ z
 Jsrc/main/java/org/designpatterns/creational/factorymethod/TypePayment.java,5/3/5363a4eae70e52fee14fcf77b18725528af4baeb
 }
 Msrc/main/java/org/designpatterns/creational/factorymethod/PaymentFactory.java,6/f/6f9145e0946575ed5caffc5da87f474862a57bfb
-€
-Psrc/main/java/org/designpatterns/creational/factorymethod/TestFactoryMethod.java,a/3/a33955481b90e423210e163862d41001af9e2e3c
 
 Qsrc/test/java/org/designpatterns/creational/factorymethod/PaymentFactoryTest.java,7/0/7095f4e54a210d88eca8145af9b087b1452a2cbc
 
 Q.idea/sonarlint/securityhotspotstore/a/0/a07c908b4b5cb921aef84298fb32e22e2026d194,8/2/8238f613d2d66ca252e8ba76d85a44cd2ace38af
 €
 Psrc/main/java/org/designpatterns/creational/abstractfactory/AbstractFactory.java,5/f/5f28f6bbbe51a469d1beac5c84d7cf02f0ead2f9
-z
-Jsrc/main/java/org/designpatterns/creational/factorymethod/CardFactory.java,c/6/c62c9c7cc08ab0ea0513c4e4915d102a037a5f1d
 |
 Lsrc/main/java/org/designpatterns/creational/abstractfactory/CardFactory.java,1/6/169289a4cb3758efe0a97204b00d1cfa152ec696
 u
@@ -45,10 +39,6 @@ Gsrc/main/java/org/designpatterns/creational/abstractfactory/Credit.java,b/2/b2
 Psrc/main/java/org/designpatterns/creational/abstractfactory/FactoryProvider.java,7/e/7e0e935cba961a5e6c2b1d30cd9fdb07d7e78ee5
 „
 Tsrc/test/java/org/designpatterns/creational/abstractfactory/FactoryProviderTest.java,2/9/296cf4b1108fb40c550287110c14c473ffb8efae
-y
-Isrc/main/java/org/designpatterns/creational/abstractfactory/CardType.java,e/0/e0e591aa522249a7babd2d0a92ed3fe2c17bda61
-‚
-Rsrc/main/java/org/designpatterns/creational/abstractfactory/PaymentMethodType.java,6/8/6898f6c4c59333eab3d2e3d9ddf08f04b1f0d26c
 
 Q.idea/sonarlint/securityhotspotstore/c/6/c62c9c7cc08ab0ea0513c4e4915d102a037a5f1d,1/9/19d865a4fc832c11388d375075c6623846a2e0d8
 
@@ -93,3 +83,7 @@ m
 =src/main/java/org/designpatterns/creational/builder/Card.java,e/9/e992842a95d0b5af7186ec1a1c79df5c897070fe
 q
 Asrc/test/java/org/designpatterns/creational/builder/CardTest.java,4/7/47c03bf8cba8c5ada6159e3a068049b0714a5847
+o
+?src/main/java/org/designpatterns/creational/singleton/Card.java,e/7/e790674e00be13b4a93dfab31b730bab45535e91
+s
+Csrc/test/java/org/designpatterns/creational/singleton/CardTest.java,9/3/93a804b97d8e70bdf99ae59e1eb8b45d56ffe1c7
