@@ -40,8 +40,6 @@ Psrc/main/java/org/designpatterns/creational/abstractfactory/FactoryProvider.jav
 „
 Tsrc/test/java/org/designpatterns/creational/abstractfactory/FactoryProviderTest.java,2/9/296cf4b1108fb40c550287110c14c473ffb8efae
 
-Q.idea/sonarlint/securityhotspotstore/c/6/c62c9c7cc08ab0ea0513c4e4915d102a037a5f1d,1/9/19d865a4fc832c11388d375075c6623846a2e0d8
-
 Q.idea/sonarlint/securityhotspotstore/5/f/5f28f6bbbe51a469d1beac5c84d7cf02f0ead2f9,7/1/71758a9af3bd26afe696f8108abdb70a0a26d3df
 
 Q.idea/sonarlint/securityhotspotstore/1/6/169289a4cb3758efe0a97204b00d1cfa152ec696,8/f/8fc5ccda0835a1a444ad607cff5098af470a2b62
@@ -64,8 +62,6 @@ Q.idea/sonarlint/securityhotspotstore/6/f/6f9145e0946575ed5caffc5da87f474862a57b
 w
 G.idea/sonarlint/issuestore/5/f/5f28f6bbbe51a469d1beac5c84d7cf02f0ead2f9,0/d/0d5300bc1b919d18679fc4add3e4d43c76163700
 
-Q.idea/sonarlint/securityhotspotstore/a/3/a33955481b90e423210e163862d41001af9e2e3c,1/1/1120ef8a060d890ba803be4b36bfdf9610f92f5c
-
 Q.idea/sonarlint/securityhotspotstore/8/2/8238f613d2d66ca252e8ba76d85a44cd2ace38af,0/3/03da705597a8e51b2fded076941a0766b0664e09
 w
 G.idea/sonarlint/issuestore/8/2/8238f613d2d66ca252e8ba76d85a44cd2ace38af,f/0/f0203a713a621d61832319d67ccb8640f85eb919
@@ -87,8 +83,6 @@ o
 ?src/main/java/org/designpatterns/creational/singleton/Card.java,e/7/e790674e00be13b4a93dfab31b730bab45535e91
 s
 Csrc/test/java/org/designpatterns/creational/singleton/CardTest.java,9/3/93a804b97d8e70bdf99ae59e1eb8b45d56ffe1c7
-…
-Usrc/main/java/org/designpatterns/behavioral/chainofresponsability/ApproveLoanChain.kt,d/d/dd43a619ad82fdf576e6eb5b32e5ef1db4dc8148
 ‡
 Wsrc/main/java/org/designpatterns/behavioral/chainofresponsability/ApproveLoanChain.java,f/d/fdb81e7a123c743129de887454e8b96a33bf375e
 {
@@ -103,12 +97,8 @@ Ksrc/main/java/org/designpatterns/behavioral/chainofresponsability/Card.java,2/
 Osrc/test/java/org/designpatterns/behavioral/chainofresponsability/CardTest.java,0/4/04f2fbd3b4893cc7032d7a0985f14936d1bf7ee1
 ~
 Nsrc/main/java/org/designpatterns/behavioral/chainofresponsability/Request.java,6/7/677ad7db6a372fd3ac506bd3fe966080ceaa6b93
-
-Q.idea/sonarlint/securityhotspotstore/d/d/dd43a619ad82fdf576e6eb5b32e5ef1db4dc8148,1/a/1aa6a00ba799bce5ee5fb062f515a216a2b8f0f1
 ?
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
-w
-G.idea/sonarlint/issuestore/d/d/dd43a619ad82fdf576e6eb5b32e5ef1db4dc8148,7/6/7634b4e606487050ec7754d380e064649bd07a8e
 p
 @src/main/java/org/designpatterns/behavioral/command/Command.java,0/6/06fbf82385babb197ee3a52a818706ac3c9f46eb
 s
@@ -121,3 +111,17 @@ Usrc/main/java/org/designpatterns/behavioral/command/CreditCardDesactivateComman
 Rsrc/main/java/org/designpatterns/behavioral/command/CreditCardActivateCommand.java,3/7/37f7bb8fa96016a887877e4647e329f3726cfb7e
 t
 Dsrc/test/java/org/designpatterns/behavioral/command/CommandTest.java,e/2/e227dd503b938558c4899daefc30bb9af37d2dac
+n
+>src/main/java/org/designpatterns/behavioral/iterator/Card.java,b/5/b5379f669d0a933f327d714da56bf4d9b4ce6369
+r
+Bsrc/main/java/org/designpatterns/behavioral/iterator/Iterator.java,0/8/08fa3a82707dece5bd0d40e228b041cfa90934b3
+v
+Fsrc/main/java/org/designpatterns/behavioral/iterator/Carditerator.java,7/7/77f457f0f579ac341b0d081087a502c1227f2613
+v
+Fsrc/main/java/org/designpatterns/behavioral/iterator/CardIterator.java,0/e/0e0bfc76ee2fc2d83055728566b395b0e0ef0540
+n
+>src/main/java/org/designpatterns/behavioral/iterator/List.java,b/1/b1e27e36e8d18ed5903d354e64b5b0d73a20bc89
+r
+Bsrc/main/java/org/designpatterns/behavioral/iterator/CardList.java,3/a/3a6da2fe9dc8aa5f8ff1304f104ad7075660aaec
+v
+Fsrc/test/java/org/designpatterns/behavioral/iterator/CardListTest.java,d/8/d80f04791031737fba7a8c70d1f9f12476bc57d9
