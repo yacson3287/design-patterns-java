@@ -1,4 +1,4 @@
-<h1 align="center"> Pattnern Desingns</h1>
+<h1 align="center">Design Patterns</h1>
 
 ![Captura de pantalla de 2024-05-11 00-33-34](https://github.com/yacson3287/pattern_design_java/assets/3833149/efef752c-ba75-4e3e-bf2b-c8382de9d51f)
 
