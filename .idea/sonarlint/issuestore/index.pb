@@ -295,3 +295,11 @@ w
 Gsrc/main/java/org/designpatterns/structural/flyweight/EnemyFactory.java,c/e/ce155b2cc67ffa0cd7ba30ec7c7ee90e14e71724
 x
 Hsrc/test/java/org/designpatterns/structural/flyweight/FlyweightTest.java,1/9/19eb872ebfc453eb22f9b206370634ed4d07f279
+o
+?src/main/java/org/designpatterns/structural/proxy/Internet.java,e/8/e8e86c3fb4f32381cf22d1acc4eda0887914e448
+w
+Gsrc/main/java/org/designpatterns/structural/proxy/AccessToInternet.java,3/3/3300da86c610ce0ce343e96aa680f6490f9d43c6
+t
+Dsrc/main/java/org/designpatterns/structural/proxy/ProxyInternet.java,3/2/32a56b451e3275bf574578005c058305452ef62a
+p
+@src/test/java/org/designpatterns/structural/proxy/ProxyTest.java,6/7/6753a985eddcbfcbbaf5f259c3a3fcbf3266679f
