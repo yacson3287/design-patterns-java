@@ -231,3 +231,17 @@ s
 Csrc/main/java/org/designpatterns/structural/adapter/CreditCard.java,0/5/05ccabfedbe66962114a0b912417cea8998974cc
 t
 Dsrc/test/java/org/designpatterns/structural/adapter/AdapterTest.java,9/b/9bf6fad7f0d2ccbddee6ee5525f719736be90c88
+s
+Csrc/main/java/org/designpatterns/structural/bridge/ICreditCard.java,b/0/b02ebe4c3204535bd06a565db1b7ca3050cb321b
+r
+Bsrc/main/java/org/designpatterns/structural/bridge/CreditCard.java,b/8/b8b9a6947b1dccb159ef0b841e8d989cb9957d29
+z
+Jsrc/main/java/org/designpatterns/structural/bridge/UnsecureCreditCard.java,5/7/576793a3718b9ba7ce936b1f85adebf361a4d914
+y
+Isrc/main/java/org/designpatterns/structural/bridge/SecrureCReditCard.java,c/6/c64326be2a8b8078eb67abb539c0b3b87a77a7b5
+y
+Isrc/main/java/org/designpatterns/structural/bridge/SecrureCreditCard.java,b/1/b1633eed23a63a146c17e27df5548e4107c4f8c7
+y
+Isrc/main/java/org/designpatterns/structural/bridge/ClassicCreditCard.java,c/6/c6aad6bec001059029ff0024575ce4453e9aae74
+r
+Bsrc/test/java/org/designpatterns/structural/bridge/BridgeTest.java,d/8/d8e7122179701dcdf86eda35b22a80b593150db0
