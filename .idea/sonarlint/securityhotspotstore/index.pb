@@ -273,3 +273,15 @@ z
 Jsrc/main/java/org/designpatterns/structural/decorator/SecureDecorator.java,4/6/4613219fc2671ccf802cd4e762ec0b7b350d9551
 x
 Hsrc/test/java/org/designpatterns/structural/decorator/DecoratorTest.java,2/4/24c44d8e3bef667a43e5ffe6a27f6a1d8687dcb9
+n
+>src/main/java/org/designpatterns/structural/facade/Credit.java,7/5/75b8f37d470826e5f6c8c70db7fde1610a352114
+l
+<src/main/java/org/designpatterns/structural/facade/Gold.java,a/a/aa3fb4f3281019cbf3b6044133380f64a65d2f27
+n
+>src/main/java/org/designpatterns/structural/facade/Silver.java,0/9/0902ee02482101db75e44f830eb93783e418e670
+m
+=src/main/java/org/designpatterns/structural/facade/Black.java,a/e/ae8979ca8eb09fce3e0b6972dff60cf1cf66bcac
+t
+Dsrc/main/java/org/designpatterns/structural/facade/CreditMarket.java,0/9/09f1565c4867c96221da477ed0f04270ea951ef2
+r
+Bsrc/test/java/org/designpatterns/structural/facade/FacadeTest.java,b/c/bc4da5c66d95becfdff2ff739dede4b888e3cf85
