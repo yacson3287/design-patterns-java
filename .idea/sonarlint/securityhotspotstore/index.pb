@@ -259,3 +259,17 @@ Jsrc/main/java/org/designpatterns/structural/composite/CheckingAccount.java,0/0
 Ksrc/main/java/org/designpatterns/structural/composite/AccountComposite.java,1/6/168acbc566a5672d359f3b0400a0a458898fbd1b
 x
 Hsrc/test/java/org/designpatterns/structural/composite/CompositeTest.java,8/b/8b7211cbb231797c5a674c3c8ffc3784af200f39
+q
+Asrc/main/java/org/designpatterns/structural/decorator/Credit.java,4/8/48cf4aa3c60cb9baf641aac5649f75e2a2917f84
+p
+@src/main/java/org/designpatterns/structural/decorator/Black.java,2/8/28d348b3dcf0a3da30ca7e631165a38bb377eaa7
+o
+?src/main/java/org/designpatterns/structural/decorator/Gold.java,9/5/957e2ea4b3306d7c9081b2ce69f4c54134b2c288
+z
+Jsrc/main/java/org/designpatterns/structural/decorator/CreditDecorator.java,2/8/28257ba1ef9e6bbe06ea14dffb171ed8eb97fb4d
+ˆ
+Xsrc/main/java/org/designpatterns/structural/decorator/InternationalPaymentDecorator.java,a/3/a3c8d19da26c9e59652a05dbf5330a40e89ae10d
+z
+Jsrc/main/java/org/designpatterns/structural/decorator/SecureDecorator.java,4/6/4613219fc2671ccf802cd4e762ec0b7b350d9551
+x
+Hsrc/test/java/org/designpatterns/structural/decorator/DecoratorTest.java,2/4/24c44d8e3bef667a43e5ffe6a27f6a1d8687dcb9
