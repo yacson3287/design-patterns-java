@@ -9,7 +9,6 @@ class StrategyTest {
 
     @BeforeEach
     void setUp() {
-
     }
 
     @Test

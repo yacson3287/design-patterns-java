@@ -195,3 +195,13 @@ q
 Asrc/main/java/org/designpatterns/behavioral/strategy/Context.java,0/4/04d89916420c392f147148c9ca7c1ea177ca5d38
 v
 Fsrc/test/java/org/designpatterns/behavioral/strategy/StrategyTest.java,5/b/5b1e5f04fd0f58684cc6051ffe8356ca6dd262c5
+w
+Gsrc/main/java/org/designpatterns/behavioral/templatemethod/Payment.java,b/b/bb612f2069a0781f02a4d98c893c9cbf84c25fe3
+}
+Msrc/main/java/org/designpatterns/behavioral/templatemethod/PaymentPaypal.java,3/3/33bacd302385511b66c008a669a250cef1cb5629
+{
+Ksrc/main/java/org/designpatterns/behavioral/templatemethod/PaymentVisa.java,4/2/421a229875ce5c803f8a368f4b358d7f1723b8c3
+{
+Ksrc/test/java/org/designpatterns/behavioral/templatemethod/PaymentTest.java,e/2/e2465590f2286365741b1e1feb0f006ed57d4402
+‚
+Rsrc/test/java/org/designpatterns/behavioral/templatemethod/TemplateMethodTest.java,b/a/bac4151fe353b163bd437051ac284a734f9d42bb
