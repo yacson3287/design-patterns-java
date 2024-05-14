@@ -245,3 +245,17 @@ y
 Isrc/main/java/org/designpatterns/structural/bridge/ClassicCreditCard.java,c/6/c6aad6bec001059029ff0024575ce4453e9aae74
 r
 Bsrc/test/java/org/designpatterns/structural/bridge/BridgeTest.java,d/8/d8e7122179701dcdf86eda35b22a80b593150db0
+z
+Jsrc/main/java/org/designpatterns/structural/composite/AcountComponent.java,f/5/f5dc27a72f908ef7478f0603228cbd491f6e2fe0
+{
+Ksrc/main/java/org/designpatterns/structural/composite/AccountComponent.java,6/8/68e52016e21f33845c1609338d081965f7531498
+y
+Isrc/main/java/org/designpatterns/structural/composite/AccountSavings.java,9/f/9f79fa5c88ba424c7b89c0cb40cd8d59fbdc6a81
+y
+Isrc/main/java/org/designpatterns/structural/composite/SavingsAccount.java,c/9/c9d5e836ec0e5949072e8cfddaade7da19e84f02
+z
+Jsrc/main/java/org/designpatterns/structural/composite/CheckingAccount.java,0/0/0050506677c1f90b997b2ae7cdc6e01c354518bb
+{
+Ksrc/main/java/org/designpatterns/structural/composite/AccountComposite.java,1/6/168acbc566a5672d359f3b0400a0a458898fbd1b
+x
+Hsrc/test/java/org/designpatterns/structural/composite/CompositeTest.java,8/b/8b7211cbb231797c5a674c3c8ffc3784af200f39
