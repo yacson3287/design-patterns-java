@@ -285,3 +285,13 @@ t
 Dsrc/main/java/org/designpatterns/structural/facade/CreditMarket.java,0/9/09f1565c4867c96221da477ed0f04270ea951ef2
 r
 Bsrc/test/java/org/designpatterns/structural/facade/FacadeTest.java,b/c/bc4da5c66d95becfdff2ff739dede4b888e3cf85
+p
+@src/main/java/org/designpatterns/structural/flyweight/Enemy.java,4/4/448aa3e0cb55f13f9278e624ec8ed685f01ad3a7
+r
+Bsrc/main/java/org/designpatterns/structural/flyweight/Private.java,2/3/236178158f8fe636495c5ed0eb835b6f7a5ef41e
+t
+Dsrc/main/java/org/designpatterns/structural/flyweight/Detective.java,3/7/37cf01d6107dad92d024c0e75f4676365f517b80
+w
+Gsrc/main/java/org/designpatterns/structural/flyweight/EnemyFactory.java,c/e/ce155b2cc67ffa0cd7ba30ec7c7ee90e14e71724
+x
+Hsrc/test/java/org/designpatterns/structural/flyweight/FlyweightTest.java,1/9/19eb872ebfc453eb22f9b206370634ed4d07f279
